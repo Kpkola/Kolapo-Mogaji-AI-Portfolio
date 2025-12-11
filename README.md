@@ -9,10 +9,9 @@ Welcome to my Applied AI & Robotics portfolio. This repository showcases project
 ## 👤 About Me
 
 - **Name:** Kolapo Mogaji  
-- **Program:** Applied AI & Robotics  
+- **Program:** Applied Tecnology AI & Robotics  
 - **Focus Areas:** Deep Learning, Intelligent Agents & Interfaces, Cloud AI, and Applied Machine Learning
 
----
 
 ## 🧠 Skills & Technologies
 
@@ -55,7 +54,7 @@ This portfolio will grow to include multiple courses from the Applied AI & Robot
 
 ## ⭐ Featured Projects
 
-### 1. [Capstone Project – *Replace with Capstone Title*](./ITAI2376_IntelligentAgents/Capstone_Project/README.md)
+### 1. [Capstone Project] – (./ITAI2376_IntelligentAgents/Capstone_Project/README.md)
 - **Course:** ITAI2376 – Intelligent Agents and Interfaces  
 - **Overview:** Briefly describe the problem you solved (e.g., image classification, agent-based decision system, etc.).  
 - **Highlights:**
@@ -63,7 +62,7 @@ This portfolio will grow to include multiple courses from the Applied AI & Robot
   - Evaluated performance using metrics such as accuracy / F1-score  
   - Presented results in a live demo with a supporting technical report  
 
-### 2. [CNN Lab – *Replace with Lab Name*](./ITAI2376_IntelligentAgents/Labs/Lab04_CNN/README.md)
+### 2. [CNN Lab](./ITAI2376_IntelligentAgents/Labs/Lab04_CNN/README.md)
 - **Focus:** Convolutional Neural Networks for image processing  
 - **Key Skills:** Data preprocessing, model architecture design, training loops, visualization of learning curves  
 
